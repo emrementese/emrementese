@@ -8,5 +8,5 @@
 
   Istanbul Medeniyet University | Electric - Electronic Engineering | Istanbul, Turkey
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreemntese&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreemntese&hide=contribs,prs)
+![Profile views](https://gpvc.arturio.dev/emreeemntese)  
