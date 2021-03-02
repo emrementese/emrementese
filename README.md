@@ -8,7 +8,7 @@ Istanbul Medeniyet University | Istanbul,Turkey
 Electric - Electronic Engineering
 
 ## Skills
-### Python
+### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' height='30'>] Python
   - Advanced Python
   - Multithreading - Multiprocessing Programming
   - Object Oriented Programming
