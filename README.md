@@ -1,9 +1,10 @@
-### Welcome The My Profile
+# Welcome The My Profile
 
+### Personal Data
 Emre MENTEŞE
 emrementese@gmail.com
 Instagram: @emre_mentese
 
-# Education:
+### Education
 Istanbul Medeniyet University | Electric - Electronic Engineering | Istanbul, Turkey
 
