@@ -10,7 +10,7 @@ Electric - Electronic Engineering
 ## Skills
 ### Python
   - Advanced Python
-  - Multithreading Programming
+  - Multithreading - Multiprocessing Programming
   - Object Oriented Programming
   - Web Scraping
   - Django | Django Rest Frame Work | Django Template Language
