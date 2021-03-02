@@ -1,4 +1,5 @@
-# Welcome to my profile
+# “Stay hungry. Stay foolish.” ― Steve Jobs
+
 Emre MENTEŞE | Front-End | Back-End | Web Developer
 
 ## Educatıon
@@ -14,7 +15,7 @@ Electric - Electronic Engineering
   - Web Scraping
   - Django | Django Rest Frame Work | Django Template Language
   - Machine Learning
-  - Bots 
+  - Bots (instagram- web site - twitter - youtube)
 ### HTML5 | JQUERY | Bootstrap 4 | PostgreSQL | C | Mac OS - Ubuntu |
 
 ## Contact Info
