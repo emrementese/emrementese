@@ -9,7 +9,7 @@ Electric - Electronic Engineering
 
 ## Skills
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
-  - Advanced Python Programming                                                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreemntese)](https://github.com/anuraghazra/github-readme-stats)
+  - Advanced Python Programming                                                                                                                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreemntese)](https://github.com/anuraghazra/github-readme-stats)
   - Multithreading - Multiprocessing Programming
   - Object Oriented Programming
   - Web Scraping
