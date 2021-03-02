@@ -1,6 +1,6 @@
 # My Profile
 
-Emre MENTEŞE | Front-End | Back-End | Web Developer
+Emre MENTEŞE | Front-End | Back-End | Python - Web Developer
 
 ## Educatıon
 Istanbul Medeniyet University | Istanbul,Turkey
