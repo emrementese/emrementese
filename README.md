@@ -1,4 +1,4 @@
-# welcome
+# Welcome
 Emre MENTEŞE | Front-End | Back-End | Web Developer
 
 ## Educatıon
