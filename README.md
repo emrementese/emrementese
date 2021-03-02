@@ -1,4 +1,4 @@
-# “Stay hungry. Stay foolish.” ― Steve Jobs
+# My Profile
 
 Emre MENTEŞE | Front-End | Back-End | Web Developer
 
