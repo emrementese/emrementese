@@ -2,4 +2,4 @@
 
 Emre MENTEŞE
 
-Istanbul Medeniyet University | 
+Istanbul Medeniyet University | Electric - Electronic Engineering | Istanbul/Turkey
