@@ -15,7 +15,7 @@ Electric - Electronic Engineering
   - Web Scraping
   - Django | Django Rest Frame Work | Django Template Language
   - Machine Learning
-  - Bots (instagram- web site - twitter - youtube)
+  - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
 ### | Python | JavaScript | Html 5 | Jquery| Bootstrap 4 | PostgreSQL | Json Data | Mac OS - Ubuntu |
 
