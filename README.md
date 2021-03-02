@@ -2,7 +2,7 @@
 
 Emre MENTEŞE | Front-End | Back-End | Python - Web Developer
 
-## Educatıon
+## Education
 Istanbul Medeniyet University | Istanbul,Turkey
 
 Electric - Electronic Engineering
