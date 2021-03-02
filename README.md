@@ -9,7 +9,7 @@ Electric - Electronic Engineering
 
 ## Skills
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
-  - Advanced Python
+  - Advanced Python Programming
   - Multithreading - Multiprocessing Programming
   - Object Oriented Programming
   - Web Scraping
