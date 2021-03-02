@@ -1,8 +1,8 @@
 # “Stay hungry. Stay foolish.” ― Steve Jobs
 ![Profile views](https://gpvc.arturio.dev/emreeemntese) 
-### Emre MENTEŞE | Python Developer
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emre_mentese/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](emrementese.apple@icloud.com)
+## Emre MENTEŞE | Python Developer
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emre_mentese/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](emrementese.apple@icloud.com)
 
 ### Education
 Istanbul Medeniyet University | Electric - Electronic Engineering | Istanbul, Turkey
