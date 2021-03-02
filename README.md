@@ -16,7 +16,7 @@ Electric - Electronic Engineering
   - Django | Django Rest Frame Work | Django Template Language
   - Machine Learning
   - Bots (instagram- web site - twitter - youtube)
-  - Knowledge of API's and Webservices.
+  - API's and Webservices.
 ### HTML5 | JQUERY | Bootstrap 4 | PostgreSQL | C | Mac OS - Ubuntu |
 
 ## Contact Info
