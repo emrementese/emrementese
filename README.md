@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to my profile
 Emre MENTEŞE | Front-End | Back-End | Web Developer
 
 ## Educatıon
