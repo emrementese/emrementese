@@ -1,6 +1,6 @@
 ### Welcome The My Profile
 
-Emre MENTEŞE \n
+Emre MENTEŞE
 emrementese@gmail.com
 Instagram: @emre_mentese
 
