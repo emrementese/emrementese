@@ -9,7 +9,7 @@ Electric - Electronic Engineering
 
 ## Skills
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
-  - Advanced Python Programming
+  - Advanced Python Programming                                                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreemntese)](https://github.com/anuraghazra/github-readme-stats)
   - Multithreading - Multiprocessing Programming
   - Object Oriented Programming
   - Web Scraping
@@ -21,6 +21,5 @@ Electric - Electronic Engineering
 
 ## Contact Info
 [<img src='https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg' alt='github' height='35'>](https://github.com/emreemntese)    [<img src='https://raw.githubusercontent.com/adityakamath16/adityakamath16/master/images/connect_with_me_images/instagram-main.svg' alt='instagram' height='30'>](https://www.instagram.com/emre_mentese/)    [<img src='https://raw.githubusercontent.com/harshalrj25/MasterAssetsRepo/master/gmail.svg' alt='mail' height='34'>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Ol%C3%A1+Stefany&to=emrementese@gmail.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreemntese)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/emreeemntese)
 
