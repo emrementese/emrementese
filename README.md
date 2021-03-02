@@ -15,7 +15,7 @@ Electric - Electronic Engineering
   - Django | Django Rest Frame Work | Django Template Language
   - Machine learning
   - Bots 
-### HTML5 | JQUERY | Boostrap 4 | C | PostgreSQL | Mac OS
+### HTML5 | JQUERY | Bootstrap 4 | PostgreSQL | C | Mac OS - Ubuntu |
 
 ## Contact Info
 [<img src='https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg' alt='github' height='35'>](https://github.com/emreemntese)
