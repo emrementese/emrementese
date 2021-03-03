@@ -17,7 +17,8 @@ Electric - Electronic Engineering
   - Machine Learning
   - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
-### | Python | JavaScript | Html 5 | Jquery | Bootstrap 4 | PostgreSQL | Json Data | Mac OS - Linux/Ubuntu | [<img src='https://camo.githubusercontent.com/5224458146edb02d527e3518320b695c5b74cced52b6bc36beaee09a60cbb7a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d436f64652d626c7565' alt='vs' height='20'>](#)
+### | Python | JavaScript | Html 5 | Jquery | Bootstrap 4 | PostgreSQL | Json Data | Mac OS - Linux/Ubuntu |
+### [<img src='https://camo.githubusercontent.com/5224458146edb02d527e3518320b695c5b74cced52b6bc36beaee09a60cbb7a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d436f64652d626c7565' alt='vs' height='20'>](#)
 
 
 ## Contact Info
