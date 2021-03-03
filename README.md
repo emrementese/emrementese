@@ -18,8 +18,6 @@ Electric - Electronic Engineering
   - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
 ### | Python | JavaScript | Html 5 | Jquery | Bootstrap 4 | PostgreSQL | Json Data | Mac OS - Linux/Ubuntu |
-### Work in [<img src='https://camo.githubusercontent.com/5224458146edb02d527e3518320b695c5b74cced52b6bc36beaee09a60cbb7a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d436f64652d626c7565' alt='vs' height='23'>](#)
-
 
 ## Contact Info
 [<img src='https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg' alt='github' height='35'>](https://github.com/emreemntese)    [<img src='https://raw.githubusercontent.com/adityakamath16/adityakamath16/master/images/connect_with_me_images/instagram-main.svg' alt='instagram' height='30'>](https://www.instagram.com/emre_mentese/)    [<img src='https://raw.githubusercontent.com/harshalrj25/MasterAssetsRepo/master/gmail.svg' alt='mail' height='34'>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Ol%C3%A1+Stefany&to=emrementese@gmail.com)
