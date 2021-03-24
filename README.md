@@ -17,6 +17,7 @@ Electric - Electronic Engineering
   - Machine Learning
   - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
+  - Sockets | Web Sockets
 ### | JavaScript | Html 5 | Jquery | Bootstrap 4 | PostgreSQL-SQLITE | Json Data | Mac OS-Linux/Ubuntu |
 
 ## Contact Info
