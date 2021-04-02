@@ -14,7 +14,7 @@ Electric - Electronic Engineering
   - Object Oriented Programming
   - Web Scraping
   - Django | Django Rest Frame Work | Django Template Language
-  - Machine Learning
+  - Machine Learning | Decision Tree
   - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
   - Sockets | Web Sockets
