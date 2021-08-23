@@ -19,6 +19,7 @@ Electric - Electronic Engineering
   - API's and Webservices.
   - Sockets | Web Sockets
   - Json and Database connections
+  - Binance API
 ### | JavaScript | Html 5 | Ajax | Jquery | Bootstrap 4 | PostgreSQL-SQLITE | Mac OS-Linux/Ubuntu |
 
 ## Contact Info
