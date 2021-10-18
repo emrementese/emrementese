@@ -21,6 +21,7 @@ Electric - Electronic Engineering
   - API's and Webservices.
   - Sockets | Web Sockets
   - Json and Database connections
+  - Virtual Environment
   - Binance API
 
 ### Others Languege
