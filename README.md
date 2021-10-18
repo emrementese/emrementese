@@ -19,7 +19,7 @@ Electric - Electronic Engineering
   - Machine Learning | Decision Tree
   - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
   - API's and Webservices.
-  - Sockets | Web Sockets
+  - Socket Programing | Web Sockets
   - Json and Database connections
   - Virtual Environment
   - Binance API
