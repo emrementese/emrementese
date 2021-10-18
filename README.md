@@ -2,7 +2,7 @@
 
 Emre MENTEŞE | Front-End | Back-End | Python - Web Developer
 
-www.emrementese.com   |   ![Profile views](https://gpvc.arturio.dev/emreeemntese)
+www.emrementese.com   ![Profile views](https://gpvc.arturio.dev/emreeemntese)
 
 ## Education
 Istanbul Medeniyet University | Istanbul,Turkey
