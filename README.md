@@ -23,6 +23,8 @@ Electric - Electronic Engineering
   - Json and Database connections
   - Virtual Environment
   - Binance API
+  - Mac OS & VS Code
+
 
 ### Others Languege
   - Javascript (Ajax - jQuery)
