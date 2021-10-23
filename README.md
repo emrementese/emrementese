@@ -1,6 +1,6 @@
 # My Profile
 
-Emre MENTEŞE | Front-End | Back-End | Python - Web Developer
+Emre MENTEŞE | Full Stack | Python - Web Developer
 
 www.emrementese.com
 
