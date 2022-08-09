@@ -2,7 +2,7 @@
     <img src="readme.svg" width="200" height="50" alt="css-in-readme">
 </div>
 <div align="center">
-    Emre MENTEŞE | Full Stack Developer
+    Emre MENTEŞE - Full Stack Developer
 </div>
 <div align="center">
     www.emrementese.com
