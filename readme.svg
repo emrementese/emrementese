@@ -24,7 +24,7 @@
                     color: yellow;
                 }
             }
-            @keyframes mymove {
+            @keyframes mymove2 {
                 from {
                     color: yellow;
                 }
