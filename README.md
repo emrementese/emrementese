@@ -4,9 +4,8 @@
 
 <div align="center">
     
-# Emre MENTEŞE - Full Stack Developer
-<br>
-    <h1> www.emrementese.com</h1>
+## Emre MENTEŞE - Full Stack Developer - www.emrementese.com<
+
 </div>
 
 
