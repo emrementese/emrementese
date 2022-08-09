@@ -49,7 +49,7 @@ Electric - Electronic Engineering
   
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese)
 
 
 
