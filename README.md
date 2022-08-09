@@ -1,10 +1,12 @@
 <div align="center">
     <img src="readme.svg" width="200" height="50" alt="css-in-readme">
 </div>
-
-Emre MENTEŞE | Full Stack Developer
-
-www.emrementese.com
+<div align="center">
+    Emre MENTEŞE | Full Stack Developer
+</div>
+<div align="center">
+    www.emrementese.com
+</div>
 
 ## Education
 Istanbul Medeniyet University | Istanbul,Turkey
