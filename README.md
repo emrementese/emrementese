@@ -9,9 +9,9 @@
 </div>
 
 ## Education
-Istanbul Medeniyet University - Istanbul,Turkey
+    Istanbul Medeniyet University - Istanbul,Turkey
 
-Electric - Electronic Engineering
+    Electric - Electronic Engineering
 
 ## Skills
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
