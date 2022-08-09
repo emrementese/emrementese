@@ -8,7 +8,6 @@
 
 </div>
 
-
 ## Education
 Istanbul Medeniyet University - Istanbul,Turkey
 
@@ -29,9 +28,7 @@ Electric - Electronic Engineering
   - Virtual Environment
   - Binance API
   - Mac OS & VS Code
-
-
-
+  
 ### Others Languege
   - Javascript (Ajax - jQuery)
   - HTML 5
@@ -52,11 +49,5 @@ Electric - Electronic Engineering
  <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrementese)
-    
-</div>
-
-<div align="center">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese&layout=compact">
     
 </div>
