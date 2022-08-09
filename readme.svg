@@ -8,6 +8,11 @@
                 word-spacing: 10px;
                 animation: mymove 2s infinite;
             }
+                
+                h2{
+                    text-align:center;
+                
+                }
 
             @keyframes mymove {
                 from {
@@ -19,6 +24,8 @@
             }
             </style>
             <h1>MY PROFILE</h1>
+            
+            <h2> Emre MENTEŞE - Full Stack Developer </h2>
         </div>
     </foreignObject>
 </svg>
