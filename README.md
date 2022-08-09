@@ -1,4 +1,18 @@
-# My Profile
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
+<h1>My Profile</h1>
 
 Emre MENTEŞE | Full Stack | Python - Web Developer
 
