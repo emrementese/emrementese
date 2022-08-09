@@ -49,9 +49,9 @@ Electric - Electronic Engineering
   
  </div>
  <div align="center">
+ 
+ <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese&layout=compact">
     
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese&layout=compact)](https://github.com/emrementese/github-readme-stats)
-  
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrementese)  
