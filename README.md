@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+Emre MENTEŞE - Full Stack Developer
     www.emrementese.com
 </div>
 
