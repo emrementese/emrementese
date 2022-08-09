@@ -43,17 +43,14 @@ Electric - Electronic Engineering
 
 ## Statistics
 
-<p>
-<p align="left">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
   
- </p>
- <p align="right">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese)]
- </p>
 
-</p>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese)]
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrementese)  
