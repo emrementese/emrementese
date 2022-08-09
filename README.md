@@ -10,7 +10,7 @@
 
 
 ## Education
-Istanbul Medeniyet University | Istanbul,Turkey
+Istanbul Medeniyet University - Istanbul,Turkey
 
 Electric - Electronic Engineering
 
