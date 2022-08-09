@@ -7,14 +7,6 @@
                 text-align:center;
                 animation: mymove 2s infinite;
             }
-                
-                h2{
-                    text-align:center;
-                    color: yellow;
-                    text-align:center;
-                    animation: mymove2 2s infinite;
-                
-                }
 
             @keyframes mymove {
                 from {
@@ -24,18 +16,10 @@
                     color: yellow;
                 }
             }
-            @keyframes mymove2 {
-                from {
-                    color: yellow;
-                }
-                to {
-                    color: red;
-                }
-            }
+
             </style>
             <h1>MY PROFILE</h1>
-            
-            <h2> Emre MENTEŞE - Full Stack Developer </h2>
+           
         </div>
     </foreignObject>
 </svg>
