@@ -3,13 +3,14 @@
 </div>
 
 <div align="center">
-    # Emre MENTEŞE - Full Stack Developer
     
+# Emre MENTEŞE - Full Stack Developer
 
 </div>
 <div align="center">
 
-## www.emrementese.com 
+## www.emrementese.com
+    
 </div>
 
 ## Education
