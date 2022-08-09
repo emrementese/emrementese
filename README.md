@@ -46,8 +46,6 @@ Electric - Electronic Engineering
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese&layout=compact)](https://github.com/emrementese/github-readme-stats)
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrementese&layout=compact)](https://github.com/emrementese/github-readme-stats)
    
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrementese)  
