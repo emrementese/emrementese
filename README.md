@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="readme.svg" width="400" height="400" alt="css-in-readme">
+    <h1 src="readme.svg" >My Profile<h1>
 </div>
 
 Emre MENTEŞE | Full Stack | Python - Web Developer
