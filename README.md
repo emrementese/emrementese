@@ -44,7 +44,7 @@ Electric - Electronic Engineering
 
 ## Statistics
 
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark"> <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark"> <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
   
  <div align="center">
     
