@@ -1,8 +1,8 @@
 <div align="center">
-    <h1 src="readme.svg" >My Profile<h1>
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
-Emre MENTEŞE | Full Stack | Python - Web Developer
+Emre MENTEŞE | Full Stack Developer
 
 www.emrementese.com
 
