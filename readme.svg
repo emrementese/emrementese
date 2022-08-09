@@ -4,6 +4,7 @@
             <style>
             h1 {
                 color: red;
+                font-size: 20pt;
                 animation: mymove 2s infinite;
             }
 
