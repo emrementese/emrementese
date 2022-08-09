@@ -5,13 +5,10 @@
 <div align="center">
     
 # Emre MENTEŞE - Full Stack Developer
-
-</div>
-<div align="center">
-
+<br>
 ## www.emrementese.com
-    
 </div>
+
 
 ## Education
 Istanbul Medeniyet University | Istanbul,Turkey
