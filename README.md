@@ -21,7 +21,7 @@
   - Web Scraping
   - Django
   - Machine Learning | Decision Tree
-  - Bots (Instagram- Web Site - Twitter - Youtube) | Selenium
+  - Bots (Instagram- Discord - Twitter - Youtube) | Selenium
   - API's and Webservices.
   - Socket Programing | Web Sockets
   - Json and Database connections
