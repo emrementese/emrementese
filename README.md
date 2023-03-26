@@ -45,9 +45,3 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark"> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
   
  </div>
- 
- <div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrementese)
-    
-</div>
