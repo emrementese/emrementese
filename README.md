@@ -6,6 +6,7 @@
     
 ## Emre MENTEŞE - Full Stack Developer - www.emrementese.com
 
+### https://g.dev/emrementese
 </div>
 
 ## Education
