@@ -17,23 +17,23 @@
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
   - Advanced Python Programming                                                                                                                             
   - Multithreading - Multiprocessing Programming
+  - Socket Programing | Web Sockets
   - Object Oriented Programming
-  - Web Scraping
   - Django
   - Machine Learning | Decision Tree
-  - Bots (Instagram- Discord - Twitter - Youtube) | Selenium
+  - Web Scraping
+  - Bots (Instagram- Discord - Twitter - Youtube - Binance - Selenium)
   - API's and Webservices.
-  - Socket Programing | Web Sockets
-  - Json and Database connections
-  - Virtual Environment
-  - Binance API
-  - Mac OS & VS Code
+  - Databases: Mongo DB, PostgreSQL, Cassandra, Redis, SqlLite 
+  - Docker, Postman, 
+  - Mac OS & VS Code & Environments
   
 ### Others Languege
   - Javascript (Ajax - jQuery)
   - HTML 5
   - CSS
-  - C
+  - C & C++
+  - Flutter
 ### [Visit my website and see more skills.](http://www.emrementese.com/deneyim/)
 
 ## Contact Info
