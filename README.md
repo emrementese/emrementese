@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1&random=false&width=435&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
 ## Supports
 <details>
 <summary>🛠️ DevOps & Optimization & Development</summary>
