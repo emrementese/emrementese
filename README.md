@@ -1,4 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
+## Skills
+<details>
+<summary>Back-End</summary>
+</details>
+<details>
+<summary>Front-End</summary>
+</details>
+<details>
+<summary>DevOps</summary>
+</details>
+<details>
+<summary>Tools</summary>
+</details>
+
 ## Supports
 <details>
 <summary>🛠️ DevOps & Optimization & Development</summary>
