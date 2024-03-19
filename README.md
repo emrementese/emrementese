@@ -31,3 +31,6 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark"> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=emrementese&theme=holi-theme">
   
  </div>
+ <div aling="center">
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrementese&theme=github_dark)
+ </div>
