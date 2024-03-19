@@ -1,18 +1,3 @@
-<div align="center">
-    <img src="readme.svg" alt="css-in-readme">
-</div>
-
-<div align="center">
-    
-## Emre MENTEŞE - Full Stack Developer
-
-</div>
-
-## Education
-    Istanbul Medeniyet University - Istanbul,Turkey
-
-    Electric - Electronic Engineering
-
 ## Skills
 ### [<img src='https://www.python.org/static/community_logos/python-logo-generic.svg' alt='Python' height='30'>](#)
   - Advanced Python Programming                                                                                                                             
