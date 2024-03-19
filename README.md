@@ -26,7 +26,7 @@
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=github_dark&width=200)
-![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300)
+![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrementese&theme=github_dark)
