@@ -12,6 +12,9 @@
   - Databases: Mongo DB, PostgreSQL, Cassandra, Redis, SqlLite 
   - Docker, Postman, 
   - Mac OS & VS Code & Environments
+
+
+- : If you're stuck in the process of publishing & distributing an app for your institution, organization, or yourself on iOS or any Apple platform, I can provide remote support to help you through the process.
   
 ### Others Languege
   - Javascript (Ajax - jQuery)
