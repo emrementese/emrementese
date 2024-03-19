@@ -4,18 +4,20 @@
 ## Supports
 
 <details>
-<summary>Tıklayarak Ayrıntıları Göster</summary>
-
-Bu proje hakkında ayrıntılı bilgi burada yer alacak.
-
+<summary>Meta Platform</summary>
+- ∞: I have worked extensively on the usage of Meta platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other Meta products, I can provide remote support to your organization in both business and development stages. 
 </details>
 
-
-- ∞: I have worked extensively on the usage of Meta platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other Meta products, I can provide remote support to your organization in both business and development stages.
-  
+<details>
+<summary>Apple</summary>
 - : If you're stuck in the process of publishing & distributing an app for your institution, organization, or yourself on iOS or any Apple platform, I can provide remote support to help you through the process.
+</details>
 
+<details>
+<summary>Others</summary>
 - 📱: Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and E-mail integrations have been part of my work. I can provide support for your organization's integration issues.
+</details>
+
   
 ## Contact Info
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' align="center" height='35'>](https://github.com/emrementese)    [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' align="center" height='34'>](https://www.linkedin.com/in/emre-mente%C5%9Fe-b55044217/)    [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail' align="center" height='34'>](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Ol%C3%A1+Stefany&to=emrementese@gmail.com)   [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' align="center" height='30'>](https://www.instagram.com/emre_mentese/)    [<img src='https://cdn.worldvectorlogo.com/logos/google-developers.svg' alt='google' align="center" height='40'>](https://g.dev/emrementese)    [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png' alt='meta' align="center" height='60'>](https://developers.facebook.com/community/profile/126443510508717)
