@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F727E1&random=false&width=500&lines=Hello+World+!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1&random=false&width=435&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## Supports
