@@ -16,6 +16,8 @@
 - ∞: I have worked extensively on the usage of Meta platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other Meta products, I can provide remote support to your organization in both business and development stages.
   
 - : If you're stuck in the process of publishing & distributing an app for your institution, organization, or yourself on iOS or any Apple platform, I can provide remote support to help you through the process.
+
+- 📱: Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and email integrations have been part of my work. I can provide support for your organization's integration issues.
   
   
 ### Others Languege
