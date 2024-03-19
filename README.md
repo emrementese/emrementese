@@ -20,10 +20,6 @@
   - Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and E-mail integrations have been part of my work. I can provide support for your organization's integration issues.
 </details>
 
-  
-## Dev Profiles
-[<img src='https://cdn.worldvectorlogo.com/logos/google-developers.svg' alt='google' align="center" height='40'>](https://g.dev/emrementese) [<img src='https://github.com/gilbarbara/logos/blob/main/logos/meta-icon.svg' alt='meta' align="center" height="30">](https://developers.facebook.com/community/profile/126443510508717)
-
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
 ![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
