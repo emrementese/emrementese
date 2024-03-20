@@ -29,8 +29,6 @@
 </details>
 <details>
 <summary>DevOps</summary>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
@@ -43,6 +41,8 @@
 </details>
 <details>
 <summary>Tools</summary>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/xcode-3097E9?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/dbeaver-8D795B?style=for-the-badge&logo=dbeaver&logoColor=white" />
