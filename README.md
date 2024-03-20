@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/redis-B5053C?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/gunicorn-349480?style=for-the-badge&logo=gunicorn&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-349480?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/minio-b5053c?style=for-the-badge&logo=minio&logoColor=white" />
   </p>
 </details>
 <details>
