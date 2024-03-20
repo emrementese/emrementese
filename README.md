@@ -4,6 +4,8 @@
 <summary>Back-End</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-205B4F?style=for-the-badge&logo=django&logoColor=white" />
+    
   </p>
 </details>
 <details>
