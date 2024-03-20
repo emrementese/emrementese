@@ -1,6 +1,4 @@
-<center> ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)<center>
-<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)<center>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
 ## Skills
 <details>
 <summary>Back-End</summary>
@@ -37,6 +35,7 @@
 </details>
 
 ## Statistics
+![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
 ![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
