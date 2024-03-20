@@ -21,10 +21,10 @@
 <details>
 <summary>DevOps</summary>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-7F887A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </details>
 <details>
