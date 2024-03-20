@@ -59,6 +59,23 @@
 
 </details>
 
+<details>
+<summary>📱 Platform Integrations</summary>
+  <p> - I have worked extensively on the usage of platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other products, I can provide remote support to your organization in both business and development stages. </p>
+  <img src="https://img.shields.io/badge/firebase-FB8D36?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/meta-3097E9?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord-9D95BC?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/telegram-3097E9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/gmail-B5053C?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/cloudflare-FB7105?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-3097E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/binance-E3F710?style=for-the-badge&logo=binance&logoColor=black" />
+  
+</details>
+
 ## Supports
 <details>
 <summary>🛠️ DevOps & Optimization & Development</summary>
@@ -73,11 +90,6 @@
 <details>
 <summary> Apple</summary>
   - If you're stuck in the process of publishing & distributing an app for your institution, organization, or yourself on iOS or any Apple platform, I can provide remote support to help you through the process.
-</details>
-
-<details>
-<summary>📱 Others</summary>
-  - Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and E-mail integrations have been part of my work. I can provide support for your organization's integration issues.
 </details>
 
 ## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
