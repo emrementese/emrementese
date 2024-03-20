@@ -3,9 +3,7 @@
 <details>
 <summary>Back-End</summary>
   <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="python" width="100" height="60" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="python" width="100" height="60"  />
+    <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </details>
 <details>
