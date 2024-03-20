@@ -2,6 +2,9 @@
 ## Skills
 <details>
 <summary>Back-End</summary>
+  <p align="left">
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="appwrite" width="40" height="40"/>
+  </p>
 </details>
 <details>
 <summary>Front-End</summary>
