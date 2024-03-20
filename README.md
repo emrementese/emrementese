@@ -3,7 +3,7 @@
 <details>
 <summary>Back-End</summary>
   <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="appwrite"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="appwrite"/>
   </p>
 </details>
 <details>
