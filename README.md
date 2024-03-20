@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-FB7105?style=for-the-badge&logo=Grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/homebrew-FCA969?style=for-the-badge&logo=homebrew&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-FB7105?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-438DB9?style=for-the-badge&logo=linux&logoColor=white" />
