@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/sqlite-438DB9?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/postgresql-438DB9?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/redis-B5053C?style=for-the-badge&logo=redis&logoColor=white" />
   </p>
 </details>
 <details>
