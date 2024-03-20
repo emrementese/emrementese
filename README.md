@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/excalidraw-6C6C56?style=for-the-badge&logo=excalidraw&logoColor=white" />
   <img src="https://img.shields.io/badge/androidstudio-6C6C56?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/iterm2-04BD00?style=for-the-badge&logo=iterm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-43853D?style=for-the-badge&logo=openai&logoColor=white" />
 
 </details>
 
