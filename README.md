@@ -34,8 +34,7 @@
   - Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and E-mail integrations have been part of my work. I can provide support for your organization's integration issues.
 </details>
 
-## Statistics
-![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
+## Statistics: ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
 ![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
