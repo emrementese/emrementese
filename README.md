@@ -20,6 +20,8 @@
 </details>
 <details>
 <summary>DevOps</summary>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=github&logoColor=white" />
 </details>
 <details>
 <summary>Tools</summary>
