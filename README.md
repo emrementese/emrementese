@@ -3,9 +3,9 @@
 <details>
 <summary>Back-End</summary>
   <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="python" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="python" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="python" width="100" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="python" width="100" height="60"  />
   </p>
 </details>
 <details>
