@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/gunicorn-349480?style=for-the-badge&logo=gunicorn&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-349480?style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/minio-b5053c?style=for-the-badge&logo=minio&logoColor=white" />
+    <img src="https://img.shields.io/badge/GRPC-b5053c?style=for-the-badge&logo=google&logoColor=white" />
   </p>
 </details>
 <details>
