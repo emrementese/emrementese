@@ -56,8 +56,8 @@
   <img src="https://img.shields.io/badge/GPT-43853D?style=for-the-badge&logo=openai&logoColor=white" />
 
 </details>
-<details>
-<summary> Supports </summary>
+
+## Supports
 <details>
 <summary>🛠️ DevOps & Optimization & Development</summary>
   - I can provide technical support to your software development process and assist in project planning. Additionally, I can offer software development approaches encompassing both technical and business aspects. For instance, payment systems, role and permission systems, authorization systems, etc.
@@ -76,7 +76,6 @@
 <details>
 <summary>📱 Others</summary>
   - Not only Meta but also Twitter, LinkedIn, TikTok, YouTube, Telegram, Discord, and E-mail integrations have been part of my work. I can provide support for your organization's integration issues.
-</details>
 </details>
 
 ## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
