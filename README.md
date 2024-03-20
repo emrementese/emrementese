@@ -57,7 +57,7 @@
 
 </details>
 <details>
-<summary> <h3>Supports</h3> </summary>
+<summary> Supports </summary>
 <details>
 <summary>🛠️ DevOps & Optimization & Development</summary>
   - I can provide technical support to your software development process and assist in project planning. Additionally, I can offer software development approaches encompassing both technical and business aspects. For instance, payment systems, role and permission systems, authorization systems, etc.
