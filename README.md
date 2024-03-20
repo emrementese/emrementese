@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/nginx-349480?style=for-the-badge&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/minio-b5053c?style=for-the-badge&logo=minio&logoColor=white" />
     <img src="https://img.shields.io/badge/GRPC-b5053c?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/rabbitmq-FB7105?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+    
   </p>
 </details>
 <details>
@@ -60,7 +62,7 @@
 </details>
 
 <details>
-<summary>📱 Platform Integrations</summary>
+<summary>📱 Integrations</summary>
   <p> - I have worked extensively on the usage of platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other products, I can provide remote support to your organization in both business and development stages. </p>
   <img src="https://img.shields.io/badge/firebase-FB8D36?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/meta-3097E9?style=for-the-badge&logo=meta&logoColor=white" />
@@ -73,7 +75,7 @@
   <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/binance-E3F710?style=for-the-badge&logo=binance&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
 </details>
 
 ## Supports
