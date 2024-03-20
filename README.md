@@ -3,7 +3,7 @@
 <details>
 <summary>Back-End</summary>
   <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="appwrite"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
   </p>
 </details>
 <details>
