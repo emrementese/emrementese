@@ -35,6 +35,20 @@
 <details>
 <summary>Tools</summary>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/xcode-3097E9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbeaver-8D795B?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/insomnia-5543B3?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-B5053C?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/clickup-ED2D90?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-3097E9?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/slack-b5053c?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/termius-5543B3?style=for-the-badge&logo=termius&logoColor=white" />
+  <img src="https://img.shields.io/badge/excalidraw-6C6C56?style=for-the-badge&logo=excalidraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/androidstudio-6C6C56?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/iterm2-04BD00?style=for-the-badge&logo=iterm2&logoColor=white" />
+
 </details>
 
 ## Supports
