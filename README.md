@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Full-Stack+Developer)](https://git.io/typing-svg)
 ## Skills
 <details>
-<summary>Back-End</summary>
+<summary>🖥️ Back-End</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/go-438DB9?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,7 +20,7 @@
   </p>
 </details>
 <details>
-<summary>Front-End</summary>
+<summary>🌄 Front-End</summary>
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />    
 </details>
 <details>
-<summary>DevOps</summary>
+<summary>♻️ DevOps</summary>
   <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </details>
 <details>
-<summary>Tools</summary>
+<summary>🛠️ Tools</summary>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
