@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/ubuntu-FB7105?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-438DB9?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/dozzle-FFBA00?style=for-the-badge&logo=dozzle&logoColor=white" />
 </details>
 <details>
 <summary>🛠️ Tools</summary>
@@ -58,7 +59,6 @@
   <img src="https://img.shields.io/badge/androidstudio-6C6C56?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/iterm2-04BD00?style=for-the-badge&logo=iterm2&logoColor=white" />
   <img src="https://img.shields.io/badge/GPT-43853D?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/dozzle-FFBA00?style=for-the-badge&logo=dozzle&logoColor=white" />
   
 </details>
 
