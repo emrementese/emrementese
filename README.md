@@ -29,6 +29,7 @@
 </details>
 <details>
 <summary>♻️ DevOps</summary>
+  <img src="https://img.shields.io/badge/Github%20Actions-FFBA00?style=for-the-badge&logo=githubactions&logoColor=black" />
   <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
@@ -39,6 +40,7 @@
   <img src="https://img.shields.io/badge/linux-438DB9?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/dozzle-FFBA00?style=for-the-badge&logo=dozzle&logoColor=white" />
+  
 </details>
 <details>
 <summary>🛠️ Tools</summary>
