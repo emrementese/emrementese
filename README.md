@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/minio-b5053c?style=for-the-badge&logo=minio&logoColor=white" />
     <img src="https://img.shields.io/badge/GRPC-b5053c?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/rabbitmq-FB7105?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/timescaledb-E5D12A?style=for-the-badge&logo=timescale&logoColor=black" />
+
   </p>
 </details>
 <details>
