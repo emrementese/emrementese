@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Software+Developer)](https://git.io/typing-svg)
 
-![IMG_3654](https://github.com/emrementese/emrementese/assets/76906642/eec7508e-c7c1-4fb7-8d76-b24a713f0aa3)
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <details>
 <summary>🖥️ Back-End</summary>
