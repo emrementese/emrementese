@@ -3,7 +3,7 @@
 ```py
 print("Hello World !")
 ```
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <details>
