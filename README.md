@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Software+Developer)](https://git.io/typing-svg)```py print("Hello World !") ```
 
-```py
-print("Hello World !")
-```
+
 ## Skills
 <details>
 <summary>🖥️ Back-End</summary>
