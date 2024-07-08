@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Software+Developer)](https://git.io/typing-svg)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <details>
 <summary>🖥️ Back-End</summary>
   <p align="left">
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
 </details>
 
-## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)
+## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   ![My Equipment](https://www.pinterest.com/emrementesee)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
 ![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
