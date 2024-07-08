@@ -82,8 +82,9 @@
   <img src="https://img.shields.io/badge/binance-E3F710?style=for-the-badge&logo=binance&logoColor=black" />
   <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
 </details>
+<summary>💻 My Equipment](https://www.pinterest.com/emrementesee)</summary>
 
-## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   [My Equipment](https://www.pinterest.com/emrementesee)
+## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
 ![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
 
