@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
 </details>
 <details>
-<summary>💻 <a href="https://www.pinterest.com/emrementesee"> My Equipment</a></summary>
+<summary>💻 <a href="https://tr.pinterest.com/emrementesee"> My Equipment</a></summary>
 </details>
 
 ## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   
