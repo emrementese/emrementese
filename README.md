@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
 </details>
 <details>
-<summary>💻 <a href="https://tr.pinterest.com/emrementesee">My Setup</a>  -  <a href="https://app.joinwanna.com/public/webcart/df54a854-beb6-47a6-b68e-24ee20e2966c">My Equipment List</a></summary>
+<summary>💻 <a href="https://tr.pinterest.com/emrementesee">My Setup</a>  -  <a href="https://app.joinwanna.com/public/webcart/df54a854-beb6-47a6-b68e-24ee20e2966c">Equipment List (Wanna)</a></summary>
 </details>
 
 ## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   
