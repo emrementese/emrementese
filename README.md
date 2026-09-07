@@ -1,99 +1,160 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=1000&pause=100&color=007B26&random=false&width=435&height=40&lines=Emre+Mente%C5%9Fe;Software+Developer)](https://git.io/typing-svg)
+<div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<details>
-<summary>🖥️ Back-End</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/go-438DB9?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-205B4F?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/fastapi-9BCE7A?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/sqlite-438DB9?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-438DB9?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-B5053C?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/gunicorn-349480?style=for-the-badge&logo=gunicorn&logoColor=white" />
-    <img src="https://img.shields.io/badge/nginx-349480?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/minio-b5053c?style=for-the-badge&logo=minio&logoColor=white" />
-    <img src="https://img.shields.io/badge/GRPC-b5053c?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/rabbitmq-FB7105?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/timescaledb-E5D12A?style=for-the-badge&logo=timescale&logoColor=black" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&height=46&lines=Emre+Mente%C5%9Fe;Software+Engineer;Back-End+%26+Distributed+Systems">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=560&height=46&lines=Emre+Mente%C5%9Fe;Software+Engineer;Back-End+%26+Distributed+Systems">
+  <img alt="Emre Menteşe — Software Engineer, Back-End and Distributed Systems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=560&height=46&lines=Emre+Mente%C5%9Fe;Software+Engineer;Back-End+%26+Distributed+Systems">
+</picture>
 
-  </p>
-</details>
-<details>
-<summary>🌄 Front-End</summary>
-   <img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white" />    
-  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript3&logoColor=white" />
- 
-</details>
-<details>
-<summary>♻️ DevOps</summary>
-  <img src="https://img.shields.io/badge/Github%20Actions-FFBA00?style=for-the-badge&logo=githubactions&logoColor=black" />
-  <img src="https://img.shields.io/badge/docker-438DB9?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zsh-121011?style=for-the-badge&logo=gnu-zsh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-B5053C?style=for-the-badge&logo=Prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-FB7105?style=for-the-badge&logo=Grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/homebrew-FCA969?style=for-the-badge&logo=homebrew&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-FB7105?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-438DB9?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/dozzle-FFBA00?style=for-the-badge&logo=dozzle&logoColor=white" />
-  
-</details>
-<details>
-<summary>🛠️ Tools</summary>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/xcode-3097E9?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbeaver-8D795B?style=for-the-badge&logo=dbeaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/insomnia-5543B3?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-B5053C?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/clickup-ED2D90?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-3097E9?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/slack-b5053c?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/termius-5543B3?style=for-the-badge&logo=termius&logoColor=white" />
-  <img src="https://img.shields.io/badge/excalidraw-6C6C56?style=for-the-badge&logo=excalidraw&logoColor=white" />
-  <img src="https://img.shields.io/badge/androidstudio-6C6C56?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/iterm2-04BD00?style=for-the-badge&logo=iterm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT-43853D?style=for-the-badge&logo=openai&logoColor=white" />
-  
+<a href="https://emrementese.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emrementese/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logoColor=white"></a>
+<a href="mailto:emrementese@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/emrementese"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
+
+---
+
+## About
+
+Software Engineer with an Electrical & Electronics Engineering background, based in **Istanbul, Turkey** — Istanbul Medeniyet University.
+
+I build back-end services and distributed systems: Python and Go APIs, event-driven pipelines, time-series storage, and the observability around them.
+
+I have worked extensively with platform APIs. If you hit obstacles integrating **Instagram, Facebook, WhatsApp** or similar products, I can provide remote support to your organisation at both the business and development stages.
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Back-End</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,django,fastapi,postgres,mongodb,sqlite,redis,nginx,rabbitmq&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,django,fastapi,postgres,mongodb,sqlite,redis,nginx,rabbitmq&theme=light&perline=10">
+  <img alt="Go, Python, Django, FastAPI, PostgreSQL, MongoDB, SQLite, Redis, NGINX, RabbitMQ" src="https://skillicons.dev/icons?i=go,py,django,fastapi,postgres,mongodb,sqlite,redis,nginx,rabbitmq&theme=dark&perline=10">
+</picture>
+<br>
+<img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-21262D?style=for-the-badge&logo=gunicorn&logoColor=white">
+<img alt="MinIO" src="https://img.shields.io/badge/MinIO-21262D?style=for-the-badge&logo=minio&logoColor=white">
+<img alt="TimescaleDB" src="https://img.shields.io/badge/TimescaleDB-21262D?style=for-the-badge&logo=timescale&logoColor=white">
+<img alt="gRPC" src="https://img.shields.io/badge/gRPC-21262D?style=for-the-badge&logoColor=white">
 </details>
 
 <details>
-<summary>📱 Integrations</summary>
-  <p> - I have worked extensively on the usage of platform products for a long time. If you encounter obstacles in API integrations of Instagram, Facebook, WhatsApp, and other products, I can provide remote support to your organization in both business and development stages. </p>
-  <img src="https://img.shields.io/badge/firebase-FB8D36?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/meta-3097E9?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/discord-9D95BC?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/telegram-3097E9?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/gmail-B5053C?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/cloudflare-FB7105?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/linkedin-3097E9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/binance-E3F710?style=for-the-badge&logo=binance&logoColor=black" />
-  <img src="https://img.shields.io/badge/digitalocean-3097E9?style=for-the-badge&logo=digitalocean&logoColor=white" />  
+<summary><b>Front-End</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,jquery&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,jquery&theme=light&perline=10">
+  <img alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, jQuery" src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,jquery&theme=dark&perline=10">
+</picture>
 </details>
+
 <details>
-<summary>💻 <a href="https://tr.pinterest.com/emrementesee">My Setup</a>  -  <a href="https://app.joinwanna.com/public/webcart/df54a854-beb6-47a6-b68e-24ee20e2966c">Equipment List (Wanna)</a></summary>
+<summary><b>DevOps</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,bash,prometheus,grafana,linux,ubuntu,apple&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,bash,prometheus,grafana,linux,ubuntu,apple&theme=light&perline=10">
+  <img alt="Docker, GitHub Actions, Bash, Prometheus, Grafana, Linux, Ubuntu, macOS" src="https://skillicons.dev/icons?i=docker,githubactions,bash,prometheus,grafana,linux,ubuntu,apple&theme=dark&perline=10">
+</picture>
+<br>
+<img alt="Zsh" src="https://img.shields.io/badge/Zsh-21262D?style=for-the-badge&logo=zsh&logoColor=white">
+<img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-21262D?style=for-the-badge&logo=homebrew&logoColor=white">
+<img alt="Dozzle" src="https://img.shields.io/badge/Dozzle-21262D?style=for-the-badge&logoColor=white">
 </details>
 
-## Statistics  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=emrementese&color=brightgreen)   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrementese&count_private=true&show_icons=trueline_height=21&theme=gotham&hide_rank=true)
-![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com?user=emrementese&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)
+<details>
+<summary><b>Tools</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,notion&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,notion&theme=light&perline=10">
+  <img alt="Git, GitHub, VS Code, Android Studio, Postman, Figma, Notion" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,notion&theme=dark&perline=10">
+</picture>
+<br>
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-21262D?style=for-the-badge&logo=xcode&logoColor=white">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-21262D?style=for-the-badge&logo=jira&logoColor=white">
+<img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-21262D?style=for-the-badge&logo=dbeaver&logoColor=white">
+<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-21262D?style=for-the-badge&logo=insomnia&logoColor=white">
+<img alt="Termius" src="https://img.shields.io/badge/Termius-21262D?style=for-the-badge&logo=termius&logoColor=white">
+<img alt="Excalidraw" src="https://img.shields.io/badge/Excalidraw-21262D?style=for-the-badge&logo=excalidraw&logoColor=white">
+<img alt="iTerm2" src="https://img.shields.io/badge/iTerm2-21262D?style=for-the-badge&logo=iterm2&logoColor=white">
+<img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-21262D?style=for-the-badge&logo=clickup&logoColor=white">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-21262D?style=for-the-badge&logoColor=white">
+<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-21262D?style=for-the-badge&logoColor=white">
+</details>
 
+<details>
+<summary><b>Integrations &amp; Cloud</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,cloudflare,firebase,discord,gmail,twitter&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,cloudflare,firebase,discord,gmail,twitter&theme=light&perline=10">
+  <img alt="AWS, Cloudflare, Firebase, Discord, Gmail, X" src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,discord,gmail,twitter&theme=dark&perline=10">
+</picture>
+<br>
+<img alt="Meta" src="https://img.shields.io/badge/Meta-21262D?style=for-the-badge&logo=meta&logoColor=white">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-21262D?style=for-the-badge&logo=telegram&logoColor=white">
+<img alt="TikTok" src="https://img.shields.io/badge/TikTok-21262D?style=for-the-badge&logo=tiktok&logoColor=white">
+<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-21262D?style=for-the-badge&logo=digitalocean&logoColor=white">
+<img alt="Binance" src="https://img.shields.io/badge/Binance-21262D?style=for-the-badge&logo=binance&logoColor=white">
+</details>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrementese&theme=github_dark)
+<details>
+<summary><b>My Setup</b></summary>
+<br>
+<a href="https://tr.pinterest.com/emrementesee"><img alt="Setup board on Pinterest" src="https://img.shields.io/badge/Setup%20Board-21262D?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="https://app.joinwanna.com/public/webcart/df54a854-beb6-47a6-b68e-24ee20e2966c"><img alt="Equipment list on Wanna" src="https://img.shields.io/badge/Equipment%20List-21262D?style=for-the-badge&logoColor=white"></a>
+</details>
 
+---
+
+## Statistics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
+  <img alt="GitHub metrics for emrementese" src="./assets/metrics-dark.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=emrementese&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=emrementese&theme=default&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
+  <img alt="Contribution streak statistics" src="https://streak-stats.demolab.com?user=emrementese&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_light">
+  <img alt="Repositories per language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_dark">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_light">
+  <img alt="Most used languages by commit" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_dark">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_light&utcOffset=3">
+  <img alt="Most productive hours of the day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
+</picture>
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/1F6FEB/emrementese">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/emrementese">
+  <img alt="Contribution chart for the last year" src="https://ghchart.rshah.org/1F6FEB/emrementese">
+</picture>
+
+<br><br>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=emrementese&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS">
+
+</div>
