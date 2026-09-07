@@ -30,19 +30,19 @@ My work sits where the back-end meets the infrastructure it runs on. Django/DRF 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/open-source-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/open-source-light.svg">
-  <img alt="Open source stats: 55 followers, 1 sponsor, 37 stargazers, 4 forkers, 6 watchers" src="./assets/open-source-dark.svg">
+  <img alt="Open source stats: 55 followers, 1 sponsor, 37 stargazers, 4 forkers, 6 watchers" width="100%" src="./assets/open-source-dark.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=emrementese&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=emrementese&theme=default&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
-  <img alt="Contribution streak statistics" src="https://streak-stats.demolab.com?user=emrementese&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
+  <img alt="Contribution streak statistics" width="57%" src="https://streak-stats.demolab.com?user=emrementese&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=460">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_light&utcOffset=3">
-  <img alt="Most productive hours of the day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
+  <img alt="Most productive hours of the day" width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
 </picture>
 
 <br><br>

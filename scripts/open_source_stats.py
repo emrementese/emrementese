@@ -44,7 +44,7 @@ THEMES = {
     "light": dict(bg="#ffffff", border="#d0d7de", text="#1f2328", muted="#59636e", accent="#0969DA"),
 }
 
-W, H, PAD = 460, 152, 24
+W, H, PAD = 840, 132, 32
 FONT = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
 
 
@@ -72,24 +72,25 @@ def fetch():
 def render(stats, t):
     cell = (W - PAD * 2) / len(stats)
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
-        f'role="img" aria-label="Open source statistics">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" '
+        f'preserveAspectRatio="xMidYMid meet" role="img" aria-label="Open source statistics">',
         f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="{t["bg"]}" stroke="{t["border"]}"/>',
-        f'<text x="{PAD}" y="36" font-family="{FONT}" font-size="15" font-weight="600" '
+        f'<text x="{PAD}" y="34" font-family="{FONT}" font-size="16" font-weight="600" '
         f'fill="{t["accent"]}">Open Source Stats</text>',
-        f'<line x1="{PAD}" y1="52" x2="{W-PAD}" y2="52" stroke="{t["border"]}"/>',
+        f'<line x1="{PAD}" y1="50" x2="{W-PAD}" y2="50" stroke="{t["border"]}"/>',
     ]
     for i, (icon, value, label) in enumerate(stats):
         cx = PAD + cell * i + cell / 2
         out.append(
-            f'<g transform="translate({cx-8:.1f} 72)"><path d="{ICONS[icon]}" fill="{t["accent"]}"/></g>'
+            f'<g transform="translate({cx-9:.1f} 64) scale(1.125)">'
+            f'<path d="{ICONS[icon]}" fill="{t["accent"]}"/></g>'
         )
         out.append(
-            f'<text x="{cx:.1f}" y="115" font-family="{FONT}" font-size="23" font-weight="700" '
+            f'<text x="{cx:.1f}" y="104" font-family="{FONT}" font-size="25" font-weight="700" '
             f'text-anchor="middle" fill="{t["text"]}">{value}</text>'
         )
         out.append(
-            f'<text x="{cx:.1f}" y="134" font-family="{FONT}" font-size="11.5" '
+            f'<text x="{cx:.1f}" y="122" font-family="{FONT}" font-size="12" '
             f'text-anchor="middle" fill="{t["muted"]}">{label}</text>'
         )
     out.append("</svg>")
