@@ -103,13 +103,6 @@ I have worked extensively with platform APIs. If you hit obstacles integrating *
 <img alt="Binance" src="https://img.shields.io/badge/Binance-21262D?style=for-the-badge&logo=binance&logoColor=white">
 </details>
 
-<details>
-<summary><b>My Setup</b></summary>
-<br>
-<a href="https://tr.pinterest.com/emrementesee"><img alt="Setup board on Pinterest" src="https://img.shields.io/badge/Setup%20Board-21262D?style=for-the-badge&logo=pinterest&logoColor=white"></a>
-<a href="https://app.joinwanna.com/public/webcart/df54a854-beb6-47a6-b68e-24ee20e2966c"><img alt="Equipment list on Wanna" src="https://img.shields.io/badge/Equipment%20List-21262D?style=for-the-badge&logoColor=white"></a>
-</details>
-
 ---
 
 ## Statistics
@@ -137,5 +130,6 @@ I have worked extensively with platform APIs. If you hit obstacles integrating *
 <br><br>
 
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=emrementese&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS">
+<a href="https://tr.pinterest.com/emrementesee"><img alt="Setup board on Pinterest" src="https://img.shields.io/badge/Setup%20Board-1F6FEB?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 
 </div>
