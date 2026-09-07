@@ -129,28 +129,9 @@ I have worked extensively with platform APIs. If you hit obstacles integrating *
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_light">
-  <img alt="Repositories per language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrementese&theme=github_dark">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_light">
-  <img alt="Most used languages by commit" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrementese&theme=github_dark">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_light&utcOffset=3">
   <img alt="Most productive hours of the day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrementese&theme=github_dark&utcOffset=3">
-</picture>
-
-### Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/1F6FEB/emrementese">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/emrementese">
-  <img alt="Contribution chart for the last year" src="https://ghchart.rshah.org/1F6FEB/emrementese">
 </picture>
 
 <br><br>
