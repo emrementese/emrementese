@@ -17,11 +17,9 @@
 
 ## About
 
-Software Engineer with an Electrical & Electronics Engineering background, based in **Istanbul, Turkey** — Istanbul Medeniyet University.
+Software Engineer based in Istanbul, with a degree in Electrical & Electronics Engineering from Istanbul Medeniyet University. I started in 2019 writing C for machine learning and computer vision research, moved on to large-scale web scraping and crawler systems, and since 2021 have built production back-end platforms in Python and Go. Today I lead engineering end to end on a compliance email platform, re-architecting it from the ground up: the back-end services and their complex mail integrations, a complete web UI rewrite, and a secure, fully automated production go-live.
 
-I build back-end services and distributed systems: Python and Go APIs, event-driven pipelines, time-series storage, and the observability around them.
-
-I have worked extensively with platform APIs. If you hit obstacles integrating **Instagram, Facebook, WhatsApp** or similar products, I can provide remote support to your organisation at both the business and development stages.
+My work sits where the back-end meets the infrastructure it runs on. Django/DRF and FastAPI microservices over PostgreSQL, Redis and MongoDB; GitOps delivery with GitHub Actions and Argo CD; containerized environments on Docker and K3s behind Traefik; infrastructure as code with Terraform on AWS; and observability through Grafana, Prometheus and Loki, alongside architecture decisions and security reviews. I also consult independently on DevOps and back-end architecture, and I have deep experience with platform APIs, so if your team is blocked on an Instagram, Facebook or WhatsApp integration, I am glad to help at either the business or the engineering stage.
 
 ---
 
