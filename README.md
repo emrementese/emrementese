@@ -28,9 +28,9 @@ My work sits where the back-end meets the infrastructure it runs on. Django/DRF 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/open-source-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/open-source-light.svg">
-  <img alt="Open source stats: 55 followers, 1 sponsor, 37 stargazers, 4 forkers, 6 watchers" width="100%" src="./assets/open-source-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/audience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/audience-light.svg">
+  <img alt="Audience and reach: followers, sponsors, stargazers, forkers, watchers and profile views" width="100%" src="./assets/audience-dark.svg">
 </picture>
 
 <picture>

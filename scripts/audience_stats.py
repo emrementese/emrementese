@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render the Open Source Stats card as themed SVGs into assets/.
+"""Render the Audience & Reach card as themed SVGs into assets/.
 
 The sponsor figure is all-time: sponsorshipsAsMaintainer with activeOnly=false
 so lapsed sponsors still count, unlike the `sponsors` field which only counts
@@ -12,6 +12,7 @@ relative path.
 """
 import json
 import os
+import re
 import sys
 import urllib.request
 
@@ -35,6 +36,7 @@ ICONS = {
     "heart": "m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002Z",
     "star": "M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z",
     "fork": "M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z",
+    "graph": "M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z",
     "people": "M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Z",
     "eye": "M8 2c1.981 0 3.671.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.45.678-1.367 1.932-2.637 3.023C11.67 13.008 9.981 14 8 14c-1.981 0-3.671-.992-4.933-2.078C1.797 10.83.88 9.576.43 8.898a1.62 1.62 0 0 1 0-1.798c.45-.677 1.367-1.931 2.637-3.022C4.33 2.992 6.019 2 8 2ZM1.679 7.932a.12.12 0 0 0 0 .136c.411.622 1.241 1.75 2.366 2.717C5.176 11.758 6.527 12.5 8 12.5c1.473 0 2.825-.742 3.955-1.715 1.124-.967 1.954-2.096 2.366-2.717a.12.12 0 0 0 0-.136c-.412-.621-1.242-1.75-2.366-2.717C10.824 4.242 9.473 3.5 8 3.5c-1.473 0-2.825.742-3.955 1.715-1.124.967-1.954 2.096-2.366 2.717ZM8 10a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 10Z",
 }
@@ -44,8 +46,26 @@ THEMES = {
     "light": dict(bg="#ffffff", border="#d0d7de", text="#1f2328", muted="#59636e", accent="#0969DA"),
 }
 
-W, H, PAD = 840, 132, 32
+W, H, PAD = 840, 132, 28
 FONT = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+
+
+def profile_views():
+    """Read the komarev counter that the README badge drives.
+
+    Every request to this endpoint increments the counter, so this daily fetch
+    inflates it by roughly one view per day. The badge has to stay in the
+    README: it is what real visitors hit, and without it the number would stop
+    tracking anyone but this workflow.
+    """
+    url = f"https://komarev.com/ghpvc/?username={USER}"
+    req = urllib.request.Request(url, headers={"User-Agent": "open-source-stats"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        svg = r.read().decode()
+    found = re.findall(r">([\d,]+)</text>", svg)
+    if not found:
+        sys.exit(f"could not parse a view count from {url}")
+    return found[-1]
 
 
 def fetch():
@@ -66,6 +86,7 @@ def fetch():
         ("star", sum(n["stargazerCount"] for n in nodes), "Stargazers"),
         ("fork", sum(n["forkCount"] for n in nodes), "Forkers"),
         ("eye", sum(n["watchers"]["totalCount"] for n in nodes), "Watchers"),
+        ("graph", profile_views(), "Profile Views"),
     ]
 
 
@@ -76,7 +97,7 @@ def render(stats, t):
         f'preserveAspectRatio="xMidYMid meet" role="img" aria-label="Open source statistics">',
         f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="{t["bg"]}" stroke="{t["border"]}"/>',
         f'<text x="{PAD}" y="34" font-family="{FONT}" font-size="16" font-weight="600" '
-        f'fill="{t["accent"]}">Open Source Stats</text>',
+        f'fill="{t["accent"]}">Audience &amp; Reach</text>',
         f'<line x1="{PAD}" y1="50" x2="{W-PAD}" y2="50" stroke="{t["border"]}"/>',
     ]
     for i, (icon, value, label) in enumerate(stats):
@@ -103,7 +124,7 @@ if __name__ == "__main__":
     data = fetch()
     os.makedirs("assets", exist_ok=True)
     for name, theme in THEMES.items():
-        path = f"assets/open-source-{name}.svg"
+        path = f"assets/audience-{name}.svg"
         with open(path, "w") as fh:
             fh.write(render(data, theme))
         print(f"wrote {path}")
