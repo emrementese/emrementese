@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Render the Open Source Stats card as themed SVGs into assets/.
 
+The sponsor figure is all-time: sponsorshipsAsMaintainer with activeOnly=false
+so lapsed sponsors still count, unlike the `sponsors` field which only counts
+currently active ones.
+
 Queries the GitHub GraphQL API for the totals shown on the card and writes a
 dark and a light variant using the README's locked palette. Committed to the
 repo by .github/workflows/stats.yml so the README can reference them by
@@ -20,7 +24,7 @@ QUERY = """
     repositories(first: 100, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
       nodes { stargazerCount forkCount watchers { totalCount } }
     }
-    sponsors { totalCount }
+    sponsorshipsAsMaintainer(first: 100, activeOnly: false) { totalCount }
     followers { totalCount }
   }
 }
@@ -58,7 +62,7 @@ def fetch():
     nodes = user["repositories"]["nodes"]
     return [
         ("people", user["followers"]["totalCount"], "Followers"),
-        ("heart", user["sponsors"]["totalCount"], "Sponsors"),
+        ("heart", user["sponsorshipsAsMaintainer"]["totalCount"], "Sponsors"),
         ("star", sum(n["stargazerCount"] for n in nodes), "Stargazers"),
         ("fork", sum(n["forkCount"] for n in nodes), "Forkers"),
         ("eye", sum(n["watchers"]["totalCount"] for n in nodes), "Watchers"),

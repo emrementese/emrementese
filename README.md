@@ -30,7 +30,7 @@ My work sits where the back-end meets the infrastructure it runs on. Django/DRF 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/open-source-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/open-source-light.svg">
-  <img alt="Open source stats: 55 followers, 0 sponsors, 37 stargazers, 4 forkers, 6 watchers" src="./assets/open-source-dark.svg">
+  <img alt="Open source stats: 55 followers, 1 sponsor, 37 stargazers, 4 forkers, 6 watchers" src="./assets/open-source-dark.svg">
 </picture>
 
 <picture>
